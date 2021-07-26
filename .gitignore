@@ -1,8 +1,11 @@
 .idea/*
+*.py[cod]
 
 __pycache__
 
 Pipfile.lock
 
+contact_email/contact_email/settings/local.py
 
+contact_email/db.sqlite3
 
