@@ -1,6 +1,6 @@
 # Send Mail Demo
  
- _This project demonstrate how to send email from django using sendgrid - cloud-based SMTP provider._
+ _This project demonstrate how to send email from django._
  
 
 ##### Installation steps:
